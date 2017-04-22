@@ -1,0 +1,31 @@
+[submodule "lib/canvas"]
+	path = lib/canvas
+	url = ssh://git@github.com/enyojs/canvas.git
+[submodule "lib/enyo"]
+	path = lib/enyo
+	url = ssh://git@github.com/enyojs/enyo.git
+[submodule "lib/enyo-ilib"]
+	path = lib/enyo-ilib
+	url = ssh://git@github.com/enyojs/enyo-ilib.git
+[submodule "lib/enyo-webo"]
+    path = enyo-webos
+    url = ssh://git@github.com/enyojs/enyo-webos.git
+[submodule "lib/layout"]
+	path = lib/layout
+	url = ssh://git@github.com/enyojs/layout.git
+[submodule "lib/moonstone"]
+	path = lib/moonstone
+	url = ssh://git@github.com/enyojs/moonstone.git
+[submodule "lib/spotlight"]
+	path = lib/spotlight
+	url = ssh://git@github.com/enyojs/spotlight.git
+[submodule "lib/svc"]
+    path = svg
+    url = ssh://git@github.com/enyojs/svg.git
+
+[submodule "lib/enyo-webos"]
+	path = lib/enyo-webos
+	url = ssh://git@github.com/enyojs/enyo-webos.git
+[submodule "lib/svg"]
+	path = lib/svg
+	url = ssh://git@github.com/enyojs/svg.git
